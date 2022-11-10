@@ -1,2 +1,2 @@
 # localLibrary
-Learning Django
+Library Manager to learn Django
